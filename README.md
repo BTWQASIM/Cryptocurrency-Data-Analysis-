@@ -22,3 +22,6 @@ The analysis provides valuable insights into the performance, volatility, and re
 ## Example
 ```bash
 python cryptocurrency_analysis.py
+
+
+This README.md provides a comprehensive guide for users to understand, install, and use your cryptocurrency data analysis script, along with mentioning the use of web scraping with the API key. Feel free to adjust it according to your preferences or add any additional information you deem necessary! Let me know if you need further assistance.
